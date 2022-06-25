@@ -43,7 +43,7 @@ Assumption: Decreasing the size of the dataset could be beneficial to a point, t
 
 Adjusting the SMA windows:
 
-[Decreasing the window](Starter_Code/Resources/tuned_sma_fewer.png)
+![Decreasing the window](Starter_Code/Resources/tuned_sma_fewer.png)
 
 Decreasing the window provided similar returns to the baseline, except for a period where it returns less. The returns are overall smaller. 
 
