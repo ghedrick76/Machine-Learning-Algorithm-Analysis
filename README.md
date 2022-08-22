@@ -1,5 +1,5 @@
-# module_14_challenge
-Challenge assignment for module 14
+# Machine Learning Algorithm Analysis
+An analysis of a machine learning trading algorithm compared with a tuned version of itself, as well as against two completely different algorithms.
 
 
 # Original Algorithm Analysis
